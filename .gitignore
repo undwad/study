@@ -1,0 +1,8 @@
+dist/
+build/
+tmp/
+__pycache__/
+.ipynb_checkpoints/
+node_modules/
+gallery/
+*.log
